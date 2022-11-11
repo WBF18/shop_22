@@ -1,0 +1,131 @@
+[
+    {
+        "id": "001",
+        "name": "家用电器",
+        "keywords": [
+            "空调",
+            "平板电视",
+            "冰箱",
+            "厨卫大电",
+            "洗衣机",
+            "生活电器"
+        ],
+        "imgUrl": "/images/floor-1-1.png",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门"
+            },
+            {
+                "url": "#",
+                "text": "大家电"
+            },
+            {
+                "url": "#",
+                "text": "生活电器"
+            },
+            {
+                "url": "#",
+                "text": "厨房电器"
+            },
+            {
+                "url": "#",
+                "text": "应季电器"
+            },
+            {
+                "url": "#",
+                "text": "空气/净水"
+            },
+            {
+                "url": "#",
+                "text": "高端电器"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/4.jpg"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/5.jpg"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/6.jpg"
+            }
+        ],
+        "recommendList": [
+            "/images/floor-1-2.png",
+            "/images/floor-1-3.png",
+            "/images/floor-1-5.png",
+            "/images/floor-1-6.png"
+        ],
+        "bigImg": "/images/floor-1-4.png"
+    },
+    {
+        "id": "002",
+        "name": "手机通讯",
+        "keywords": [
+            "手机",
+            "蓝牙耳机",
+            "音箱",
+            "智能手表",
+            "充电器",
+            "相机"
+        ],
+        "imgUrl": "/images/s1.jpg",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门"
+            },
+            {
+                "url": "#",
+                "text": "手机配件"
+            },
+            {
+                "url": "#",
+                "text": "影音娱乐"
+            },
+            {
+                "url": "#",
+                "text": "电脑配件"
+            },
+            {
+                "url": "#",
+                "text": "智能设备"
+            },
+            {
+                "url": "#",
+                "text": "手机通讯"
+            },
+            {
+                "url": "#",
+                "text": "笔记本"
+            }
+        ],
+        "carouselList": [
+          
+            {
+                "id": "0011",
+                "imgUrl": "/images/1.jpg"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/2.jpg"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/3.jpg"
+            }
+        ],
+        "recommendList": [
+            "/images/s2.jpg",
+            "/images/s3.jpg",
+            "/images/s4.jpg",
+            "/images/s5.jpg"
+        ],
+        "bigImg": "/images/s6.jpg"
+    }
+]
